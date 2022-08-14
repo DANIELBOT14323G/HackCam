@@ -19,3 +19,7 @@ cd HackCam
 bash install.sh
 
 python3 CCTVHack.py
+
+
+# Sript asli gw hanya nambahin fitur doang
+https://github.com/Hackers0nline/CCTV-WEBHACK
