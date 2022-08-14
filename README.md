@@ -21,5 +21,5 @@ bash install.sh
 python3 CCTVHack.py
 
 
-# Sript asli gw hanya nambahin fitur doang
+# Script asli gw hanya nambahin fitur dan recode doang 
 https://github.com/Hackers0nline/CCTV-WEBHACK
